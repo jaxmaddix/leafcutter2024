@@ -11,4 +11,6 @@ editor_options:
 
 Welcome to my website about my research on leafcutter ants, [*Atta cephalotes*](https://en.wikipedia.org/wiki/Atta_cephalotes), in Costa Rica. This research took place at [Camaquiri Conservation Initiative](https://www.camaquiri.com/) in Limón Province, CR, from January 5-8, 2024.
 
-To read my project report, please download it [**here**](https://github.com/jaxmaddix/leafcutter2024/blob/c6a5448378f6303c293b95252335c4950ba7074c/Freund_IMR_Final.pdf)
+![Atta cephalotes](/Users/jaxsonfreund/leafcutter2024/analysis/attacephalotes.png)
+
+To read my project report, please download it [**here**](https://github.com/jaxmaddix/leafcutter2024/blob/c6a5448378f6303c293b95252335c4950ba7074c/Freund_IMR_Final.pdf).
