@@ -12,7 +12,7 @@ navbar:
   right:
   - icon: fab fa-github
     text: Source code
-    href: https://github.com/jaxmaddiix/leafcutter2024
+    href: https://github.com/jaxmaddix/leafcutter2024
 output:
   workflowr::wflow_html:
     toc: yes
