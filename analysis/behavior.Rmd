@@ -6,14 +6,21 @@ output: workflowr::wflow_html
 editor_options:
   chunk_output_type: console
 ---
+# Context: Leafcutter Castes
+Leafcutter colonies can contain millions of individuals and occupt dozens of meters.  This presents a logisitcal challenge for making decisions and disseminating information. Therefore, leafcutter ants have a caste system that helps them divide important tasks. Since the fungus is essential to the colony's survival, many of these tasks focus on fungal care. These caste's have been well described in another *Atta* species.
 
+The smallest ants are the gardeners/nurses, who care for the fungi and larvae.  The next largest are within-nest generalists, who perform many functions such as waste removal and queen care. The workers/excavators are the second largest size, and they are responsible for harvesting and transporting leaf fragments and expanding the nest. Finally, the largest ants are defenders, warding off other organisms.
+
+# Methods
 I recorded approximately 4 hours of leafcutter activity near the colony, mostly from 6-11 PM on January 6-8, 2024. I saw 8 instances of leaf fragments being dropped and left for the remainder of the video. In comparison, there were hundreds of leaf fragments carried across the video frame per recording, so leaf rejection is rare near the colony.
 
-However, each instance of leaf rejection occurred with a similar sequences of events.
+However, each instance of leaf rejection occurred with a similar sequences of events. As a worker ant carried a leaf fragment, other ants were milling around, making contact with leaf fragments.  Usually, they would briefly touch a leaf and then move away.  However, when the leaf fragments were rejected, the ants tended to stay with a leaf until a group aggregated.  They, they worked together to lower the leaf and walked away from it. 
 
-A video demosntrating one of these events can be found in my [presentation]().
+![Leaf rejection video](/Users/jaxsonfreund/leafcutter2024/docs/assets/leaf_movie.mp4).
 
+Since leafcutter ants are known to use chemical communication with conspecifics and their fungi, I believe the observed behavior is the ants sensing the chemical composition of the leaves and then voting on whether they are acceptable.  In other species of ants, colonies use quorum voting to make decisions because their colonies are too large to communicate effectively by other means.  In quorum voting, individuals vote until a threshold is reached.  I believe this leaf rejection behavior may be accomplished via quorum voting as well, since leafcutter colonies can be comprised of millions of individuals.
 
+In the videos, I noted that the "voting" ants are significantly smaller than the foragers, and are consistent in size with the gardener/nurse caste. This observation suggests that leaf selection near the colony is a previously undescribed role of this caste. Additionally, since gardeners/nurses response to chemical cues from the fungus, if they are involved in this leaf selection filter, it is likely that chemical signals are involved in the selection process.w
 
 
 
