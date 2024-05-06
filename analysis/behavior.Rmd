@@ -16,8 +16,9 @@ I recorded approximately 4 hours of leafcutter activity near the colony, mostly 
 
 However, each instance of leaf rejection occurred with a similar sequences of events. As a worker ant carried a leaf fragment, other ants were milling around, making contact with leaf fragments.  Usually, they would briefly touch a leaf and then move away.  However, when the leaf fragments were rejected, the ants tended to stay with a leaf until a group aggregated.  They, they worked together to lower the leaf and walked away from it. 
 
-![Leaf rejection video](/Users/jaxsonfreund/leafcutter2024/docs/assets/leaf_movie.mp4).
 
+# Video and Interpretations
+![](assets/leaf_movie.mp4)
 Since leafcutter ants are known to use chemical communication with conspecifics and their fungi, I believe the observed behavior is the ants sensing the chemical composition of the leaves and then voting on whether they are acceptable.  In other species of ants, colonies use quorum voting to make decisions because their colonies are too large to communicate effectively by other means.  In quorum voting, individuals vote until a threshold is reached.  I believe this leaf rejection behavior may be accomplished via quorum voting as well, since leafcutter colonies can be comprised of millions of individuals.
 
 In the videos, I noted that the "voting" ants are significantly smaller than the foragers, and are consistent in size with the gardener/nurse caste. This observation suggests that leaf selection near the colony is a previously undescribed role of this caste. Additionally, since gardeners/nurses response to chemical cues from the fungus, if they are involved in this leaf selection filter, it is likely that chemical signals are involved in the selection process.w

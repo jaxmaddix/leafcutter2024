@@ -27,17 +27,15 @@ When we arrived at CCI, I noticed that there were a lot of leaves dropped right 
 I set up a transect line with markers every meter, from the colony entrance along the leafcutter path, until the path diverged and went into the woods. 
 
 **Leafcutter colony and transect with blue meter markers**
-
-![](/Users/jaxsonfreund/leafcutter2024/docs/assets/transect.JPG)
+![](assets/transect.JPG)
 I built a quadrat measuring 30x90 cm using basic materials available at the field station (sticks and twine). I placed the quadrat over each marker and sampled every leaf fragment within the quadrat. By sampling every leaf within the quadrat, I could measured changes in leaf rejection as the ants got closer to the colony by measuring the total mass of leaves dropped per quadrat, and counting the number of leaves per quadrat. 
 
 **Quadrat that I built:** 
-![](/Users/jaxsonfreund/leafcutter2024/docs/assets/quadrat.JPG)
-
+![](assets/quadrat.JPG)
 After I collected the leaf fragments, I also took pictures of them all with a ruler for scale.  I used ImageJ to calculate the surface area of each leaf, to determine if the size of rejected leaf fragments changed closer to the colony. 
 
 **Example of what the rejected fragments looked like:**
-![](/Users/jaxsonfreund/leafcutter2024/docs/assets/fragments.JPG)
+![](assets/fragments.JPG)
 
 ## Behavioral Analysis
 **See a more detailed description and an example video [here](behavior.html).**
