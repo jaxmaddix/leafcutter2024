@@ -1,5 +1,5 @@
 ---
-title: "License"
+title: "References"
 output:
   workflowr::wflow_html:
     toc: false
@@ -7,15 +7,24 @@ editor_options:
   chunk_output_type: console
 ---
 
-What license are you using for your code? See [choosealicense.com][choose] for
-help deciding. It's a convention to save a file `LICENSE` in the root of your
-Git repo that contains the license text.
+CORRÊA, M. M., A. G. D. BIEBER, R. WIRTH, and I. R. LEAL. 2005. Occurrence of Atta cephalotes (L.) (Hymenoptera: Formicidae) in Alagoas, Northeastern Brazil. Neotrop. Entomol. 34: 695–698.
 
-What license are you using for the written content on your site? It is
-traditional to choose a [Creative Commons][cc] license for this type of content.
+HAGER, F. A., L. KIRCHNER, and W. H. KIRCHNER. 2017. Directional vibration sensing in the leafcutter ant Atta sexdens. Biol. Open 6: 1949–1952.
 
-[choose]: https://choosealicense.com/
-[cc]: https://creativecommons.org/choose/
+HODGSON, E. S. 1955. An Ecological Study of the Behavior of the Leaf-Cutting Ant Atta Cephalotes. Ecology 36: 293–304.
 
-How should others cite your work? It's a convention to save a file `CITATION`
-in the root of your Git repo that contains the citation information.
+MOREIRA, A., L. FORTI, A. ANDRADE, M. BOARETTO, and J. LOPES. 2004. Nest Architecture of Atta laevigata (F. Smith, 1858) (Hymenoptera: Formicidae). Stud. Neotropical Fauna Environ. 109–116.
+
+MUELLER, U. G., T. R. SCHULTZ, C. R. CURRIE, R. M. ADAMS, and D. MALLOCH. 2001. The origin of the attine ant-fungus mutualism. Q. Rev. Biol. 76: 169–197.
+
+NORTH, R. D., C. W. JACKSON, and P. E. HOWSE. 1997. Evolutionary aspects of ant-fungus interactions in leaf-cutting ants. Trends Ecol. Evol. 12: 386–389.
+
+PRATT, S. C. 2005. Quorum sensing by encounter rates in the ant Temnothorax albipennis. Behav. Ecol. 16: 488–496.
+
+ROCKWOOD, L. L. 1976. Plant Selection and Foraging Patterns in Two Species of Leaf-Cutting Ants (Atta). Ecology 57: 48–61.
+
+SEGRE, P. S., and E. D. TAYLOR. 2019. Large ants do not carry their fair share: maximal load- carrying performance of leaf-cutter ants (Atta cephalotes). J. Exp. Biol. 222: jeb199240.
+
+SPEIGHT, M., M. HUNTER, and A. WATT. 2009. Ecology of Insects: Concepts and Applications, 2nd Edition | Wiley 2nd ed. Available at: https://www.wiley.com/en-us/Ecology+of+Insects%3A+Concepts+and+Applications%2C+2nd+Edition-p- 9781444300963 [Accessed March 3, 2024].
+
+WILSON, E. O. 1980. Caste and Division of Labor in Leaf-Cutter Ants (Hymenoptera: Formicidae: Atta): I. The Overall Pattern in A. sexdens. Behav. Ecol. Sociobiol. 7: 143– 156.
