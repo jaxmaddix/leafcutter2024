@@ -8,9 +8,14 @@ editor_options:
   chunk_output_type: console
 ---
 
+## **Welcome**
 
 Welcome to my website about my research on leafcutter ants, [*Atta cephalotes*](https://en.wikipedia.org/wiki/Atta_cephalotes), in Costa Rica. This research took place at [Camaquiri Conservation Initiative](https://www.camaquiri.com/) in Limón Province, CR, from January 5-8, 2024.
 
-![Atta cephalotes](/Users/jaxsonfreund/leafcutter2024/docs/assets/attacephalotes.png)
+![*Atta cephalotes*](/Users/jaxsonfreund/leafcutter2024/docs/assets/attacephalotes.png)
 
 To read my project report, please download it [**here**](https://github.com/jaxmaddix/leafcutter2024/blob/c6a5448378f6303c293b95252335c4950ba7074c/Freund_IMR_Final.pdf).
+
+## **About me**
+
+My name is Jaxson Freund. I'm a 1st year Biology Masters student at Villanova University, and I finished my B.A. in Biology from Swarthmore College in 2023. I study marine invertebrates and my research at Swarthmore focused on how diet and rearing temperature mitigate the ability of sea urchin larvae to survive thermal stress.

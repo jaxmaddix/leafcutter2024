@@ -3,11 +3,11 @@ output_dir: ../docs
 navbar:
   title: leafcutter2024
   left:
-  - text: Home
-    href: index.html
   - text: About
-    href: about.html
-  - text: License
+    href: index.html
+  - text: Project Overview
+    href: Overview.html
+  - text: References
     href: license.html
   right:
   - icon: fab fa-github

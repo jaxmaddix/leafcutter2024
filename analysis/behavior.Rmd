@@ -1,0 +1,19 @@
+---
+title: "Behavioral Observations"
+author: "Jaxson Freund"
+date: "2024-05-06"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+I recorded approximately 4 hours of leafcutter activity near the colony, mostly from 6-11 PM on January 6-8, 2024. I saw 8 instances of leaf fragments being dropped and left for the remainder of the video. In comparison, there were hundreds of leaf fragments carried across the video frame per recording, so leaf rejection is rare near the colony.
+
+However, each instance of leaf rejection occurred with a similar sequences of events.
+
+A video demosntrating one of these events can be found in my [presentation]().
+
+
+
+
+
